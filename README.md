@@ -1,0 +1,2 @@
+# FoodDash-AI-Powered-Food-Delivery-Time-Prediction-and-Live-Order-Tracking-System
+FoodDash: AI-Powered Food Delivery Time Prediction and Live Order Tracking System is a machine learning and web application project that predicts how long a food delivery will take. It uses that prediction inside a working food ordering app. It was developed as a BTech Computer Science and Engineering minor project at Punjabi University, Patiala.
